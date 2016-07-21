@@ -1,0 +1,20 @@
+.cuadro1{
+	background-color: #FFFF00;
+	height: 70px;
+
+}
+
+.cuadro2{
+	background-color: #FF0000;
+	height: 70px;
+	position: relative;
+	top: -20px;
+
+}
+
+.cuadro3{
+	background-color: #FFFF00;
+	height: 70px;
+	position: relative;
+	top: -40px;
+}

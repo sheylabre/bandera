@@ -1,0 +1,30 @@
+.cuadro1 p{
+	background-color: #FFFF00;
+	height: 20px;
+	width: 90px;
+	padding: 7px;
+	display: inline-block;
+	float: left;
+	margin: 10px;
+}
+
+.cuadro2 p{
+	background-color: #FF0000;
+	height: 20px;
+	width: 20px;
+	padding: 7px;
+	display: inline-block;
+	float: left;
+	margin: 10px;
+	
+}
+
+.cuadro3 p{
+	background-color: #FFFF00;
+	height: 20px;
+	width: 150px;
+	padding: 7px;
+	display: inline-block;
+	margin: 10px;
+
+}
